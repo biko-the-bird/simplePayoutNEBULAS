@@ -6,7 +6,7 @@ This Contract is for Marketplaces to provide easy preagreed payout to vendors wi
 Try it out(MainNet): https://biko-the-bird.github.io/simplePayoutNEBULAS/
 
 <b>Introduction</b>:
-Many marketplaces exist to facilitate interaction between various vendors and comsumers. A simplified approach to allow these marketplaces to make purchases of marketplace products in NAS so consumers who want to pay with cc can buy from vendors who except NAS and marketplaces can recieve a fee for facilitating the interaction.
+Many marketplaces exist to facilitate interaction between various vendors and comsumers. A simplified approach to allow these marketplaces to make purchases of marketplace products in NAS so consumers who want to pay with cc can buy from vendors who except NAS and marketplaces can receive a fee for facilitating the interaction.
 
 call function: simpleTwoParty</br>
 Params:<code> ["ADR1", "ADR2", "PER1", "PER2"]</code>
