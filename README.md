@@ -3,7 +3,7 @@ Utility contract to pay out to 2 addresses by %
 
 This Contract is for Marketplaces to provide easy preagreed payout to vendors with a cut i.e. 75/25
 
-Try it out(MainNet): https://biko-the-bird.github.io/simplePayoutNEBULAS/splitPayout.html
+Try it out(MainNet): https://biko-the-bird.github.io/simplePayoutNEBULAS/
 
 <b>Introduction</b>:
 Many marketplaces exist to facilitate interaction between various vendors and comsumers. A simplified approach to allow these marketplaces to make purchases of marketplace products in NAS so consumers who want to pay with cc can buy from vendors who except NAS and marketplaces can recieve a fee for facilitating the interaction.
