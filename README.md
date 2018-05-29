@@ -20,3 +20,6 @@ PER1 And PER2 must parseFloat() and must add to 1.00.
 
 ## Created By:
 Biko-the-bird
+
+## License:
+Public Domain
