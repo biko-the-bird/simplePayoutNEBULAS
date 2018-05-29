@@ -16,3 +16,7 @@ PER1 And PER2 must parseFloat() and must add to 1.00.
 
 ## Todo
 -Add support for more parties
+
+
+## Created By:
+Biko-the-bird
